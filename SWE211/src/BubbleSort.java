@@ -6,7 +6,7 @@ public class BubbleSort  implements SortingStrategy {
      int j;
      boolean flag = true;   // set flag to true to begin first pass
      int temp;   //holding variable
-
+     int x=5;
      while ( flag )
      {
             flag= false;    //set flag to false awaiting a possible swap
